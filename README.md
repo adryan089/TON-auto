@@ -1,4 +1,4 @@
-# Ethereum Random Wallet Generator
+# TON Random Wallet Generator
 
 A Python script to generate random TON wallet addresses. The user can specify the number of addresses to create, and the script will save them to `wallets.txt`. Ideal for testing, simulations, or any application that requires generating multiple TON addresses.
 
