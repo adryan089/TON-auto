@@ -5,7 +5,7 @@ A Python script to generate random TON wallet addresses. The user can specify th
 ## Features
 
 - **Dynamic Input**: Users can specify how many TON wallet addresses to generate.
-- **Automatic Saving**: Outputs all generated addresses to a text file (`wallets.txt`).
+- **Automatic Saving**: Outputs all generated addresses & mnemonic to a text file (`wallets.txt`).
 
 ## Requirements
 
