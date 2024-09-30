@@ -16,19 +16,7 @@ def generate_wallets(count):
 
 # Main script
 if __name__ == "__main__":
-    print("""
-          
-
-  _    _ _     _     _             _____          _      
- | |  | (_)   | |   | |           / ____|        | |     
- | |__| |_  __| | __| | ___ _ __ | |     ___   __| | ___ 
- |  __  | |/ _` |/ _` |/ _ \ '_ \| |    / _ \ / _` |/ _ \\
- | |  | | | (_| | (_| |  __/ | | | |___| (_) | (_| |  __/
- |_|  |_|_|\__,_|\__,_|\___|_| |_|\_____\___/ \__,_|\___|
-                                                         
-                       by Aero25x                                           
-          
-          """)
+    print("""AUTOMATIC TON WALLET GENERATOR""")
     count = input("Enter the number of wallets to generate: ")
     try:
         count = int(count)
